@@ -1,0 +1,22 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs with udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crllm/learning-nodejs.git"
+  },
+  "author": "Carol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crllm/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/crllm/learning-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
